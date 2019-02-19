@@ -28,7 +28,7 @@
 - 2-2. [TextLSTM](https://github.com/bzantium/nlp-guide/tree/master/2-2.TextLSTM) - **Autocomplete**
   - Paper - [LONG SHORT-TERM MEMORY(1997)](https://www.bioinf.jku.at/publications/older/2604.pdf)
   - Colab - [TextLSTM_Tensor.ipynb](https://colab.research.google.com/github/bzantium/nlp-guide/blob/master/2-2.TextLSTM/TextLSTM-Tensor.ipynb), [TextLSTM_Torch.ipynb](https://colab.research.google.com/github/bzantium/nlp-guide/blob/master/2-2.TextLSTM/TextLSTM-Torch.ipynb)
-  - Application (Colab) - [SamHangSi_Tensor.ipynb](https://colab.research.google.com/github/bzantium/nlp-guide/blob/master/2-2.TextLSTM/SamHangSi-Torch.ipynb)
+  - Application (Colab) - [SamHangSi_Tensor.ipynb](https://github.com/bzantium/nlp-guide/blob/master/2-2.TextLSTM/SamHangSi-Tensor.ipynb)
 
 
 #### 2. CNN(Convolutional Neural Network)
