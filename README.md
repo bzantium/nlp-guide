@@ -28,41 +28,42 @@
 - 2-2. [TextLSTM](https://github.com/bzantium/nlp-guide/tree/master/2-2.TextLSTM) - **Autocomplete**
   - Paper - [LONG SHORT-TERM MEMORY(1997)](https://www.bioinf.jku.at/publications/older/2604.pdf)
   - Colab - [TextLSTM_Tensor.ipynb](https://colab.research.google.com/github/bzantium/nlp-guide/blob/master/2-2.TextLSTM/TextLSTM-Tensor.ipynb), [TextLSTM_Torch.ipynb](https://colab.research.google.com/github/bzantium/nlp-guide/blob/master/2-2.TextLSTM/TextLSTM-Torch.ipynb)
-  - Application (Colab) - [SamHangSi_Tensor.ipynb](https://colab.research.google.com/github/bzantium/nlp-guide/blob/master/2-2.TextLSTM/SamHangSi-Tensor.ipynb)
-
-
-#### 2. CNN(Convolutional Neural Network)
-
-- 2-1. [TextCNN](https://github.com/graykode/nlp-tutorial/tree/master/2-1.TextCNN) - **Binary Sentiment Classification**
-  - Paper - [Convolutional Neural Networks for Sentence Classification(2014)](http://www.aclweb.org/anthology/D14-1181)
-  - Colab - [TextCNN_Tensor.ipynb](https://colab.research.google.com/github/graykode/nlp-tutorial/blob/master/2-1.TextCNN/TextCNN_Tensor.ipynb), [TextCNN_Torch.ipynb](https://colab.research.google.com/github/graykode/nlp-tutorial/blob/master/2-1.TextCNN/TextCNN_Torch.ipynb)
-- 2-2. DCNN(Dynamic Convolutional Neural Network)
+  - Application(Colab) - [SamHangSi_Tensor.ipynb](https://colab.research.google.com/github/bzantium/nlp-guide/blob/master/2-2.TextLSTM/SamHangSi-Tensor.ipynb)
 
 
 
-#### 4. Attention Mechanism
+#### 3. Attention Mechanism
 
-- 4-1. [Seq2Seq](https://github.com/graykode/nlp-tutorial/tree/master/4-1.Seq2Seq) - **Change Word**
+- 3-1. [Seq2Seq](https://github.com/bzantium/nlp-guide/tree/master/3-1.Seq2Seq) - **Change Word**
   - Paper - [Learning Phrase Representations using RNN Encoder–Decoder
     for Statistical Machine Translation(2014)](https://arxiv.org/pdf/1406.1078.pdf)
-  - Colab - [Seq2Seq_Tensor.ipynb](https://colab.research.google.com/github/graykode/nlp-tutorial/blob/master/4-1.Seq2Seq/Seq2Seq_Tensor.ipynb), [Seq2Seq_Torch.ipynb](https://colab.research.google.com/github/graykode/nlp-tutorial/blob/master/4-1.Seq2Seq/Seq2Seq_Torch.ipynb)
-- 4-2. [Seq2Seq with Attention](https://github.com/graykode/nlp-tutorial/tree/master/4-2.Seq2Seq(Attention)) - **Translate**
+  - Colab - [Seq2Seq_Tensor.ipynb](https://colab.research.google.com/github/bzantium/nlp-guide/blob/master/3-1.Seq2Seq/Seq2Seq-Tensor.ipynb), [Seq2Seq_Torch.ipynb](https://colab.research.google.com/github/bzantium/nlp-guide/blob/master/3-1.Seq2Seq/Seq2Seq-Torch.ipynb)
+  - Application(Colab) - [Conversation_Tensor.ipynb](https://colab.research.google.com/github/bzantium/nlp-guide/blob/master/3-1.Seq2Seq/Conversation-Tensor.ipynb)
+- 3-2. [Seq2Seq with Attention](https://github.com/bzantium/nlp-guide/tree/master/3-2.Seq2Seq(Attention)) - **Translate**
   - Paper - [Neural Machine Translation by Jointly Learning to Align and Translate(2014)](https://arxiv.org/abs/1409.0473)
-  - Colab - [Seq2Seq(Attention)_Tensor.ipynb](https://colab.research.google.com/github/graykode/nlp-tutorial/blob/master/4-2.Seq2Seq(Attention)/Seq2Seq(Attention)_Tensor.ipynb), [Seq2Seq(Attention)_Torch.ipynb](https://colab.research.google.com/github/graykode/nlp-tutorial/blob/master/4-2.Seq2Seq(Attention)/Seq2Seq(Attention)_Torch.ipynb)
-- 4-3. [Bi-LSTM with Attention](https://github.com/graykode/nlp-tutorial/tree/master/4-3.Bi-LSTM(Attention)) - **Binary Sentiment Classification**
-  - Colab - [Bi_LSTM(Attention)_Tensor.ipynb](https://colab.research.google.com/github/graykode/nlp-tutorial/blob/master/4-3.Bi-LSTM(Attention)/Bi_LSTM(Attention)_Tensor.ipynb), [Bi_LSTM(Attention)_Torch.ipynb](https://colab.research.google.com/github/graykode/nlp-tutorial/blob/master/4-3.Bi-LSTM(Attention)/Bi_LSTM(Attention)_Torch.ipynb)
+  - Colab - [Seq2Seq(Attention)_Tensor.ipynb](https://colab.research.google.com/github/bzantium/nlp-guide/blob/master/3-2.Seq2Seq(Attention)/Seq2Seq(Attention)-Tensor.ipynb), [Seq2Seq(Attention)_Torch.ipynb](https://colab.research.google.com/github/bzantium/nlp-guide/blob/master/3-2.Seq2Seq(Attention)/Seq2Seq(Attention)-Torch.ipynb)
 
+
+
+#### 4. CNN(Convolutional Neural Network)
+
+- 2-1. [TextCNN](https://github.com/bzantium/nlp-guide/tree/master/4-1.TextCNN) - **Binary Sentiment Classification**
+  - Paper - [Convolutional Neural Networks for Sentence Classification(2014)](http://www.aclweb.org/anthology/D14-1181)
+  - Colab - [TextCNN_Tensor.ipynb](https://colab.research.google.com/github/bzantium/nlp-guide/blob/master/4-1.TextCNN/TextCNN-Tensor.ipynb), [TextCNN_Torch.ipynb](https://colab.research.google.com/github/bzantium/nlp-guide/blob/master/4-1.TextCNN/TextCNN-Torch.ipynb)
+  
 
 
 #### 5. Model based on Transformer
 
-- 5-1.  [The Transformer](https://github.com/graykode/nlp-tutorial/tree/master/5-1.Transformer) - **Translate**
+- 5-1.  [The Transformer](https://github.com/bzantium/nlp-guide/tree/master/5-1.Transformer) - **Translate**
   - Paper - [Attention Is All You Need(2017)](https://arxiv.org/abs/1810.04805)
-  - Colab - [Transformer_Torch.ipynb](https://colab.research.google.com/github/graykode/nlp-tutorial/blob/master/5-1.Transformer/Transformer_Torch.ipynb), [Transformer(Greedy_decoder)_Torch.ipynb](https://colab.research.google.com/github/graykode/nlp-tutorial/blob/master/5-1.Transformer/Transformer(Greedy_decoder)_Torch.ipynb)
-- 5-2. [BERT](https://github.com/graykode/nlp-tutorial/tree/master/5-2.BERT) - **Classification Next Sentence & Predict Masked Tokens**
+  - Colab - [Transformer_Torch.ipynb](https://colab.research.google.com/github/bzantium/nlp-guide/blob/master/5-1.Transformer/Transformer-Torch.ipynb), [Transformer(Greedy_decoder)_Torch.ipynb](https://colab.research.google.com/github/bzantium/nlp-guide/blob/master/5-1.Transformer/Transformer(Greedy_decoder)-Torch.ipynb)
+- 5-2. [BERT](https://github.com/bzantium/nlp-guide/tree/master/5-2.BERT) - **Sentiment Analysis / Classification  Next Sentence**
   - Paper - [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding(2018)](https://arxiv.org/abs/1810.04805)
-  - Colab - [BERT_Torch.ipynb](https://colab.research.google.com/github/graykode/nlp-tutorial/blob/master/5-2.BERT/BERT_Torch.ipynb)
-
+  - Colab - [BERT_Torch.ipynb](https://colab.research.google.com/github/bzantium/nlp-guide/blob/master/5-2.BERT/BERT-Torch.ipynb)
+- 5-3. [OpenAI GPT-2](https://github.com/bzantium/nlp-guide/tree/master/5-3.GPT-2) - **Sample model-written texts**
+  - Paper - [Language Models are Unsupervised Multitask Learners(2019)](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)
+  - Colab - [GPT2_Playground.ipynb](https://colab.research.google.com/github/bzantium/nlp-guide/blob/master/5-3.GPT-2/GPT2-Playground.ipynb)
 
 
 
