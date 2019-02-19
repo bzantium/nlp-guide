@@ -7,7 +7,7 @@ This repository heavily refers [graykode's nlp-tutorial](https://github.com/gray
 
 - You can implement applications with data in [data folder](https://github.com/bzantium/nlp-guide/tree/master/data)
 
-## Curriculum - (Example Purpose)
+## Curriculum
 
 #### 1. Basic Embedding Model
 
