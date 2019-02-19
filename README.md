@@ -10,17 +10,25 @@
 
 #### 1. Basic Embedding Model
 
-- 1-1. [NNLM(Neural Network Language Model)](https://github.com/graykode/nlp-tutorial/tree/master/1-1.NNLM) - **Predict Next Word**
-  - Paper -  [A Neural Probabilistic Language Model(2003)](http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf)
-  - Colab - [NNLM_Tensor.ipynb](https://colab.research.google.com/github/graykode/nlp-tutorial/blob/master/1-1.NNLM/NNLM_Tensor.ipynb), [NNLM_Torch.ipynb](https://colab.research.google.com/github/graykode/nlp-tutorial/blob/master/1-1.NNLM/NNLM_Torch.ipynb)
-- 1-2. [Word2Vec(Skip-gram)](https://github.com/graykode/nlp-tutorial/tree/master/1-2.Word2Vec) - **Embedding Words and Show Graph**
+- 1-1. [Word2Vec(Skip-gram)](https://github.com/bzantium/nlp-guide/tree/master/1-1.Word2Vec) - **Embedding Words and Show Graph**
   - Paper - [Distributed Representations of Words and Phrases
     and their Compositionality(2013)](https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf)
-  - Colab - [Word2Vec_Tensor(NCE_loss).ipynb](https://colab.research.google.com/github/graykode/nlp-tutorial/blob/master/1-2.Word2Vec/Word2Vec_Tensor(NCE_loss).ipynb), [Word2Vec_Tensor(Softmax).ipynb](https://colab.research.google.com/github/graykode/nlp-tutorial/blob/master/1-2.Word2Vec/Word2Vec_Tensor(Softmax).ipynb), [Word2Vec_Torch(Softmax).ipynb](https://colab.research.google.com/github/graykode/nlp-tutorial/blob/master/1-2.Word2Vec/Word2Vec_Torch(Softmax).ipynb)
-- 1-3. [FastText(Application Level)](https://github.com/graykode/nlp-tutorial/tree/master/1-3.FastText) - **Sentence Classification**
-  - Paper - [Bag of Tricks for Efficient Text Classification(2016)](https://arxiv.org/pdf/1607.01759.pdf)
-  - Colab - [FastText.ipynb](https://colab.research.google.com/github/graykode/nlp-tutorial/blob/master/1-3.FastText/FastText.ipynb)
+  - Colab - [Word2Vec_Tensor.ipynb](https://colab.research.google.com/github/bzantium/nlp-guide/blob/master/1-1.Word2Vec/Word2Vec-Tensor.ipynb), [Word2Vec_Torch.ipynb](https://colab.research.google.com/github/bzantium/nlp-guide/blob/master/1-1.Word2Vec/Word2Vec-Torch.ipynb)
+- 1-2. [Doc2Vec(Application Level)](https://github.com/bzantium/nlp-guide/tree/master/1-2.Doc2Vec) - **Sentence Classification**
+  - Paper - [Distributed Representations of Sentences and Documents(2014)](https://arxiv.org/pdf/1405.4053.pdf)
+  - Colab - [Doc2Vec_Tensor.ipynb](https://colab.research.google.com/github/bzantium/nlp-guide/blob/master/1-2.Doc2Vec/Doc2Vec-Tensor.ipynb), [Doc2Vec_Torch.ipynb](https://colab.research.google.com/github/bzantium/nlp-guide/blob/master/1-2.Doc2Vec/Doc2Vec-Torch.ipynb)
 
+
+
+#### 2. RNN(Recurrent Neural Network)
+
+- 2-1. [TextRNN](https://github.com/bzantium/nlp-guide/tree/master/2-1.TextRNN) - **Predict Next Step**
+  - Paper - [Finding Structure in Time(1990)](http://psych.colorado.edu/~kimlab/Elman1990.pdf)
+  - Colab - [TextRNN_Tensor.ipynb](https://colab.research.google.com/github/bzantium/nlp-guide/blob/master/2-1.TextRNN/TextRNN-Tensor.ipynb), [TextRNN_Torch.ipynb](https://colab.research.google.com/github/bzantium/nlp-guide/blob/master/2-1.TextRNN/TextRNN-Torch.ipynb)
+- 2-2. [TextLSTM](https://github.com/bzantium/nlp-guide/tree/master/2-2.TextLSTM) - **Autocomplete**
+  - Paper - [LONG SHORT-TERM MEMORY(1997)](https://www.bioinf.jku.at/publications/older/2604.pdf)
+  - Colab - [TextLSTM_Tensor.ipynb](https://colab.research.google.com/github/bzantium/nlp-guide/blob/master/2-2.TextLSTM/TextLSTM-Tensor.ipynb), [TextLSTM_Torch.ipynb](https://colab.research.google.com/github/bzantium/nlp-guide/blob/master/2-2.TextLSTM/TextLSTM-Torch.ipynb)
+  - Application (Colab) - [SamHangSi_Tensor.ipynb](https://colab.research.google.com/github/bzantium/nlp-guide/blob/master/2-2.TextLSTM/SamHangSi-Torch.ipynb)
 
 
 #### 2. CNN(Convolutional Neural Network)
@@ -29,19 +37,6 @@
   - Paper - [Convolutional Neural Networks for Sentence Classification(2014)](http://www.aclweb.org/anthology/D14-1181)
   - Colab - [TextCNN_Tensor.ipynb](https://colab.research.google.com/github/graykode/nlp-tutorial/blob/master/2-1.TextCNN/TextCNN_Tensor.ipynb), [TextCNN_Torch.ipynb](https://colab.research.google.com/github/graykode/nlp-tutorial/blob/master/2-1.TextCNN/TextCNN_Torch.ipynb)
 - 2-2. DCNN(Dynamic Convolutional Neural Network)
-
-
-
-#### 3. RNN(Recurrent Neural Network)
-
-- 3-1. [TextRNN](https://github.com/graykode/nlp-tutorial/tree/master/3-1.TextRNN) - **Predict Next Step**
-  - Paper - [Finding Structure in Time(1990)](http://psych.colorado.edu/~kimlab/Elman1990.pdf)
-  - Colab - [TextRNN_Tensor.ipynb](https://colab.research.google.com/github/graykode/nlp-tutorial/blob/master/3-1.TextRNN/TextRNN_Tensor.ipynb), [TextRNN_Torch.ipynb](https://colab.research.google.com/github/graykode/nlp-tutorial/blob/master/3-1.TextRNN/TextRNN_Torch.ipynb)
-- 3-2. [TextLSTM](https://github.com/graykode/nlp-tutorial/tree/master/3-2.TextLSTM) - **Autocomplete**
-  - Paper - [LONG SHORT-TERM MEMORY(1997)](https://www.bioinf.jku.at/publications/older/2604.pdf)
-  - Colab - [TextLSTM_Tensor.ipynb](https://colab.research.google.com/github/graykode/nlp-tutorial/blob/master/3-2.TextLSTM/TextLSTM_Tensor.ipynb), [TextLSTM_Torch.ipynb](https://colab.research.google.com/github/graykode/nlp-tutorial/blob/master/3-2.TextLSTM/TextLSTM_Torch.ipynb)
-- 3-3. [Bi-LSTM](https://github.com/graykode/nlp-tutorial/tree/master/3-3.Bi-LSTM) - **Predict Next Word in Long Sentence**
-  - Colab - [Bi_LSTM_Tensor.ipynb](https://colab.research.google.com/github/graykode/nlp-tutorial/blob/master/3-3.Bi-LSTM/Bi_LSTM_Tensor.ipynb), [Bi_LSTM_Torch.ipynb](https://colab.research.google.com/github/graykode/nlp-tutorial/blob/master/3-3.Bi-LSTM/Bi_LSTM_Torch.ipynb)
 
 
 
