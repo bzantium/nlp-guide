@@ -2,8 +2,8 @@
 
 <p align="center"><img width="120" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/TensorFlowLogo.svg/2000px-TensorFlowLogo.svg.png" /> <img width="120" src="https://media-thumbs.golden.com/OLqzmrmwAzY1P7Sl29k2T9WjJdM=/200x200/smart/golden-storage-production.s3.amazonaws.com/topic_images/e08914afa10a4179893eeb07cb5e4713.png" /></p>
 
-`nlp-guide` is a tutorial for who is studying NLP(Natural Language Processing) using **TensorFlow** and **Pytorch**. Most of the models in NLP were implemented with less than **100 lines** of code.(except comments or blank lines)
-
+`nlp-guide` is a tutorial for who is studying NLP(Natural Language Processing) using **TensorFlow** and **Pytorch**.
+This repository is heavily following [graykode's nlp-tutorial](https://github.com/graykode/nlp-tutorial)
 
 
 ## Curriculum - (Example Purpose)
@@ -50,6 +50,7 @@
 - 4-1. [TextCNN](https://github.com/bzantium/nlp-guide/tree/master/4-1.TextCNN) - **Binary Sentiment Classification**
   - Paper - [Convolutional Neural Networks for Sentence Classification(2014)](http://www.aclweb.org/anthology/D14-1181)
   - Colab - [TextCNN_Tensor.ipynb](https://colab.research.google.com/github/bzantium/nlp-guide/blob/master/4-1.TextCNN/TextCNN-Tensor.ipynb), [TextCNN_Torch.ipynb](https://colab.research.google.com/github/bzantium/nlp-guide/blob/master/4-1.TextCNN/TextCNN-Torch.ipynb)
+  - Application(Colab) - [Sentiment_Tensor.ipynb](https://colab.research.google.com/github/bzantium/nlp-guide/blob/master/4-1.TextCNN/Sentiment-Tensor.ipynb)
   
 
 
