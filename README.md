@@ -5,6 +5,7 @@
 `nlp-guide` is a tutorial for who is studying NLP(Natural Language Processing) using **TensorFlow** and **Pytorch**.
 This repository heavily refers [graykode's nlp-tutorial](https://github.com/graykode/nlp-tutorial)
 
+- You can implement applications with data in [data folder](https://github.com/bzantium/nlp-guide/tree/master/data)
 
 ## Curriculum - (Example Purpose)
 
