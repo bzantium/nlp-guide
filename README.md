@@ -47,7 +47,7 @@
 
 #### 4. CNN(Convolutional Neural Network)
 
-- 2-1. [TextCNN](https://github.com/bzantium/nlp-guide/tree/master/4-1.TextCNN) - **Binary Sentiment Classification**
+- 4-1. [TextCNN](https://github.com/bzantium/nlp-guide/tree/master/4-1.TextCNN) - **Binary Sentiment Classification**
   - Paper - [Convolutional Neural Networks for Sentence Classification(2014)](http://www.aclweb.org/anthology/D14-1181)
   - Colab - [TextCNN_Tensor.ipynb](https://colab.research.google.com/github/bzantium/nlp-guide/blob/master/4-1.TextCNN/TextCNN-Tensor.ipynb), [TextCNN_Torch.ipynb](https://colab.research.google.com/github/bzantium/nlp-guide/blob/master/4-1.TextCNN/TextCNN-Torch.ipynb)
   
