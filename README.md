@@ -30,7 +30,8 @@ This repository heavily refers [graykode's nlp-tutorial](https://github.com/gray
   - Paper - [LONG SHORT-TERM MEMORY(1997)](https://www.bioinf.jku.at/publications/older/2604.pdf)
   - Colab - [TextLSTM_Tensor.ipynb](https://colab.research.google.com/github/bzantium/nlp-guide/blob/master/2-2.TextLSTM/TextLSTM-Tensor.ipynb), [TextLSTM_Torch.ipynb](https://colab.research.google.com/github/bzantium/nlp-guide/blob/master/2-2.TextLSTM/TextLSTM-Torch.ipynb)
   - Application(Colab) - [SamHangSi_Tensor.ipynb](https://colab.research.google.com/github/bzantium/nlp-guide/blob/master/2-2.TextLSTM/SamHangSi-Tensor.ipynb)
-
+- 2-3. [biLSTM](https://github.com/bzantium/nlp-guide/tree/master/2-3.biLSTM) - **Binary Sentiment Classification**
+  - Colab - [biLSTM_Tensor.ipynb](https://colab.research.google.com/github/bzantium/nlp-guide/blob/master/2-3.biLSTM/biLSTM-Tensor.ipynb), [biLSTM_Torch.ipynb](https://colab.research.google.com/github/bzantium/nlp-guide/blob/master/2-3.biLSTM/biLSTM-Torch.ipynb)
 
 
 #### 3. Attention Mechanism
