@@ -9,6 +9,11 @@ This repository heavily refers [graykode's nlp-tutorial](https://github.com/gray
 
 ## Curriculum
 
+
+#### 0. FFNN(Feed Forward Neural Network) with one-hot BoW
+- 0-1. [FFNN](https://github.com/bzantium/nlp-guide/tree/master/0-1.FFNN) - **Binary Theme Classification**
+  - Colab - [FFNN_Tensor.ipynb](https://colab.research.google.com/github/bzantium/nlp-guide/blob/master/0-1.FFNN/FFNN-Tensor.ipynb), [FFNN_Torch.ipynb](https://colab.research.google.com/github/bzantium/nlp-guide/blob/master/0-1.FFNN/FFNN-Tensor.ipynb)
+
 #### 1. Basic Embedding Model
 
 - 1-1. [Word2Vec(Skip-gram)](https://github.com/bzantium/nlp-guide/tree/master/1-1.Word2Vec) - **Embedding Words and Show Graph**
