@@ -65,7 +65,7 @@ This repository heavily refers [graykode's nlp-tutorial](https://github.com/gray
   - Colab - [BERT_Torch.ipynb](https://colab.research.google.com/github/bzantium/nlp-guide/blob/master/5-2.BERT/BERT-Torch.ipynb)
 - 5-3. [OpenAI GPT-2](https://github.com/bzantium/nlp-guide/tree/master/5-3.GPT-2) - **Sample model-written texts**
   - Paper - [Language Models are Unsupervised Multitask Learners(2019)](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)
-  - Colab - [GPT2_Playground.ipynb](https://colab.research.google.com/github/bzantium/nlp-guide/blob/master/5-3.GPT-2/GPT2-Playground.ipynb)
+  - Colab - [GPT2_Torch.ipynb](https://colab.research.google.com/github/bzantium/nlp-guide/blob/master/5-3.GPT-2/GPT2-Torch.ipynb)
 
 
 
