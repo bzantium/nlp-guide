@@ -6,6 +6,7 @@
 This repository heavily refers [graykode's nlp-tutorial](https://github.com/graykode/nlp-tutorial)
 
 - You can implement applications with data in [data folder](https://github.com/bzantium/nlp-guide/tree/master/data)
+- You can also download data [here](https://drive.google.com/open?id=1sKNCLnFyV0m-O2DmzrX4RLNWlP3P8OAJ)
 - Applications include how to save and load trained model
 
 ## Curriculum
