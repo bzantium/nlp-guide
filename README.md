@@ -70,7 +70,7 @@ This repository heavily refers [graykode's nlp-tutorial](https://github.com/gray
   - Colab - [Transformer_Torch.ipynb](https://colab.research.google.com/github/bzantium/nlp-guide/blob/master/5-1.Transformer/Transformer-Torch.ipynb), [Transformer(Greedy_decoder)_Torch.ipynb](https://colab.research.google.com/github/bzantium/nlp-guide/blob/master/5-1.Transformer/Transformer(Greedy_decoder)-Torch.ipynb)
 - 5-2. [BERT](https://github.com/bzantium/nlp-guide/tree/master/5-2.BERT) - **Sentiment Analysis / Classification  Next Sentence**
   - Paper - [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding(2018)](https://arxiv.org/abs/1810.04805)
-  - Colab - [BERT_Torch.ipynb](https://colab.research.google.com/github/bzantium/nlp-guide/blob/master/5-2.BERT/BERT-Torch.ipynb)
+  - Colab - [BERT_Tensor.ipynb](https://colab.research.google.com/github/bzantium/nlp-guide/blob/master/5-2.BERT/BERT-Tensor.ipynb), [BERT_Torch.ipynb](https://colab.research.google.com/github/bzantium/nlp-guide/blob/master/5-2.BERT/BERT-Torch.ipynb)
 - 5-3. [OpenAI GPT-2](https://github.com/bzantium/nlp-guide/tree/master/5-3.GPT-2) - **Sample model-written texts**
   - Paper - [Language Models are Unsupervised Multitask Learners(2019)](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)
   - Colab - [GPT2_Torch.ipynb](https://colab.research.google.com/github/bzantium/nlp-guide/blob/master/5-3.GPT-2/GPT2-Torch.ipynb)
