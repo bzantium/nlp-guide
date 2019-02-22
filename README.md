@@ -5,9 +5,16 @@
 `nlp-guide` is a tutorial for who is studying NLP(Natural Language Processing) using **TensorFlow** and **Pytorch**.
 This repository heavily refers [graykode's nlp-tutorial](https://github.com/graykode/nlp-tutorial)
 
-- You can implement applications with data in [data folder](https://github.com/bzantium/nlp-guide/tree/master/data)
+- You can implement applications by uploading data in [data folder](https://github.com/bzantium/nlp-guide/tree/master/data)
+- You can also download data [here](https://drive.google.com/open?id=1sKNCLnFyV0m-O2DmzrX4RLNWlP3P8OAJ)
+- For BERT_Tensor.ipynb, you have to upload files in [BERT-Base, Multilingual Cased](https://storage.googleapis.com/bert_models/2018_11_23/multi_cased_L-12_H-768_A-12.zip) to load pretrained model
 
 ## Curriculum
+
+
+#### 0. FFNN(Feed Forward Neural Network) with one-hot BoW
+- 0-1. [FFNN](https://github.com/bzantium/nlp-guide/tree/master/0-1.FFNN) - **Binary Theme Classification**
+  - Colab - [FFNN_Tensor.ipynb](https://colab.research.google.com/github/bzantium/nlp-guide/blob/master/0-1.FFNN/FFNN-Tensor.ipynb), [FFNN_Torch.ipynb](https://colab.research.google.com/github/bzantium/nlp-guide/blob/master/0-1.FFNN/FFNN-Torch.ipynb)
 
 #### 1. Basic Embedding Model
 
@@ -63,7 +70,7 @@ This repository heavily refers [graykode's nlp-tutorial](https://github.com/gray
   - Colab - [Transformer_Torch.ipynb](https://colab.research.google.com/github/bzantium/nlp-guide/blob/master/5-1.Transformer/Transformer-Torch.ipynb), [Transformer(Greedy_decoder)_Torch.ipynb](https://colab.research.google.com/github/bzantium/nlp-guide/blob/master/5-1.Transformer/Transformer(Greedy_decoder)-Torch.ipynb)
 - 5-2. [BERT](https://github.com/bzantium/nlp-guide/tree/master/5-2.BERT) - **Sentiment Analysis / Classification  Next Sentence**
   - Paper - [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding(2018)](https://arxiv.org/abs/1810.04805)
-  - Colab - [BERT_Torch.ipynb](https://colab.research.google.com/github/bzantium/nlp-guide/blob/master/5-2.BERT/BERT-Torch.ipynb)
+  - Colab - [BERT_Tensor.ipynb](https://colab.research.google.com/github/bzantium/nlp-guide/blob/master/5-2.BERT/BERT-Tensor.ipynb), [BERT_Torch.ipynb](https://colab.research.google.com/github/bzantium/nlp-guide/blob/master/5-2.BERT/BERT-Torch.ipynb)
 - 5-3. [OpenAI GPT-2](https://github.com/bzantium/nlp-guide/tree/master/5-3.GPT-2) - **Sample model-written texts**
   - Paper - [Language Models are Unsupervised Multitask Learners(2019)](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)
   - Colab - [GPT2_Torch.ipynb](https://colab.research.google.com/github/bzantium/nlp-guide/blob/master/5-3.GPT-2/GPT2-Torch.ipynb)
