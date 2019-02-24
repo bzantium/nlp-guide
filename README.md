@@ -5,9 +5,9 @@
 `nlp-guide` is a tutorial for who is studying NLP(Natural Language Processing) using **TensorFlow** and **Pytorch**.
 This repository heavily refers [graykode's nlp-tutorial](https://github.com/graykode/nlp-tutorial)
 
-- You can implement applications with data in [data folder](https://github.com/bzantium/nlp-guide/tree/master/data)
+- You can implement applications by uploading data in [data folder](https://github.com/bzantium/nlp-guide/tree/master/data)
 - You can also download data [here](https://drive.google.com/open?id=1sKNCLnFyV0m-O2DmzrX4RLNWlP3P8OAJ)
-- Applications include how to save and load trained model
+- For BERT_Tensor.ipynb, you have to upload files in [BERT-Base, Multilingual Cased](https://storage.googleapis.com/bert_models/2018_11_23/multi_cased_L-12_H-768_A-12.zip) to load pretrained model
 
 ## Curriculum
 
@@ -66,7 +66,7 @@ This repository heavily refers [graykode's nlp-tutorial](https://github.com/gray
 #### 5. Model based on Transformer
 
 - 5-1.  [The Transformer](https://github.com/bzantium/nlp-guide/tree/master/5-1.Transformer) - **Translate**
-  - Paper - [Attention Is All You Need(2017)](https://arxiv.org/abs/1810.04805)
+  - Paper - [Attention Is All You Need(2017)](https://arxiv.org/abs/1706.03762)
   - Colab - [Transformer_Torch.ipynb](https://colab.research.google.com/github/bzantium/nlp-guide/blob/master/5-1.Transformer/Transformer-Torch.ipynb), [Transformer(Greedy_decoder)_Torch.ipynb](https://colab.research.google.com/github/bzantium/nlp-guide/blob/master/5-1.Transformer/Transformer(Greedy_decoder)-Torch.ipynb)
 - 5-2. [BERT](https://github.com/bzantium/nlp-guide/tree/master/5-2.BERT) - **Sentiment Analysis / Classification  Next Sentence**
   - Paper - [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding(2018)](https://arxiv.org/abs/1810.04805)
