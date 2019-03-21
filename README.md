@@ -5,7 +5,7 @@
 `nlp-guide` is a tutorial for who is studying NLP(Natural Language Processing) using **TensorFlow** and **Pytorch**.
 This repository heavily refers [graykode's nlp-tutorial](https://github.com/graykode/nlp-tutorial)
 
-- You can implement applications by uploading data in [data folder](https://github.com/bzantium/nlp-guide/tree/master/data)
+- You can implement applications by uploading data from [data folder](https://github.com/bzantium/nlp-guide/tree/master/data)
 - You can also download data [here](https://drive.google.com/open?id=1sKNCLnFyV0m-O2DmzrX4RLNWlP3P8OAJ)
 - For BERT_Tensor.ipynb, you have to upload files in [BERT-Base, Multilingual Cased](https://storage.googleapis.com/bert_models/2018_11_23/multi_cased_L-12_H-768_A-12.zip) to load pretrained model
 
